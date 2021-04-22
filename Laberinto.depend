@@ -11,15 +11,16 @@
 	"MapCell.h"
 	"GameMap.h"
 
-1619124737 d:\documentos\platzi\fundamentosprogramacion\cplusplus\game\laberinto\include\mapcell.h
+1619126691 d:\documentos\platzi\fundamentosprogramacion\cplusplus\game\laberinto\include\mapcell.h
 
-1619124499 source:d:\documentos\platzi\fundamentosprogramacion\cplusplus\game\laberinto\src\mapcell.cpp
+1619127330 source:d:\documentos\platzi\fundamentosprogramacion\cplusplus\game\laberinto\src\mapcell.cpp
 	"MapCell.h"
 
 1619125914 d:\documentos\platzi\fundamentosprogramacion\cplusplus\game\laberinto\include\gamemap.h
 	"MapCell.h"
 
-1619125770 source:d:\documentos\platzi\fundamentosprogramacion\cplusplus\game\laberinto\src\gamemap.cpp
+1619127539 source:d:\documentos\platzi\fundamentosprogramacion\cplusplus\game\laberinto\src\gamemap.cpp
 	"GameMap.h"
+	<fstream>
 	<iostream>
 
