@@ -7,15 +7,15 @@ using namespace std;
 
 int main()
 {
-    bool isGameOver = false;
     GameMap Map;
     Player Hero;
 
-    cout << "Inicia el juego" << endl;
+    Map.DrawIntro();
 
-    while(isGameOver == false)
+    while(Map.isGameOver == false)
     {
         //aca es el loop del juego
+        cout << "Mover: w, a, s, d" << endl;
         Hero.CallIpunt();
 
         //actualizado info del heroe a mapa

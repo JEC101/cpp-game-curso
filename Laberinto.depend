@@ -5,7 +5,7 @@
 
 1619128594 d:\documentos\platzi\fundamentosprogramacion\cplusplus\game\laberinto\include\player.h
 
-1619125321 source:d:\documentos\platzi\fundamentosprogramacion\cplusplus\game\laberinto\main.cpp
+1619131175 source:d:\documentos\platzi\fundamentosprogramacion\cplusplus\game\laberinto\main.cpp
 	<iostream>
 	"Player.h"
 	"MapCell.h"
@@ -16,10 +16,10 @@
 1619128223 source:d:\documentos\platzi\fundamentosprogramacion\cplusplus\game\laberinto\src\mapcell.cpp
 	"MapCell.h"
 
-1619129081 d:\documentos\platzi\fundamentosprogramacion\cplusplus\game\laberinto\include\gamemap.h
+1619131294 d:\documentos\platzi\fundamentosprogramacion\cplusplus\game\laberinto\include\gamemap.h
 	"MapCell.h"
 
-1619129057 source:d:\documentos\platzi\fundamentosprogramacion\cplusplus\game\laberinto\src\gamemap.cpp
+1619129630 source:d:\documentos\platzi\fundamentosprogramacion\cplusplus\game\laberinto\src\gamemap.cpp
 	"GameMap.h"
 	<fstream>
 	<iostream>
