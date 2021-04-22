@@ -1,11 +1,17 @@
 # depslib dependency file v1.0
-1619123629 source:d:\documentos\platzi\fundamentosprogramacion\cplusplus\game\laberinto\src\player.cpp
+1619123909 source:d:\documentos\platzi\fundamentosprogramacion\cplusplus\game\laberinto\src\player.cpp
 	"Player.h"
 	<iostream>
 
 1619123911 d:\documentos\platzi\fundamentosprogramacion\cplusplus\game\laberinto\include\player.h
 
-1619123753 source:d:\documentos\platzi\fundamentosprogramacion\cplusplus\game\laberinto\main.cpp
+1619124518 source:d:\documentos\platzi\fundamentosprogramacion\cplusplus\game\laberinto\main.cpp
 	<iostream>
 	"Player.h"
+	"MapCell.h"
+
+1619124737 d:\documentos\platzi\fundamentosprogramacion\cplusplus\game\laberinto\include\mapcell.h
+
+1619124499 source:d:\documentos\platzi\fundamentosprogramacion\cplusplus\game\laberinto\src\mapcell.cpp
+	"MapCell.h"
 
