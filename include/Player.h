@@ -8,7 +8,10 @@ class Player
         Player();
 
         void CallIpunt();
+        void ResetToSafePosition();
+
         int x, y;
+        int lastX, lastY;
 
 
     protected:

@@ -19,7 +19,15 @@ int main()
         Hero.CallIpunt();
 
         //actualizado info del heroe a mapa
-        Map.SetPlayerCell(Hero.x, Hero.y);
+        if(Map.SetPlayerCell(Hero.x, Hero.y))
+        {
+            Map.Draw();
+        }
+        else
+        {
+            Hero.ResetToSafePosition();
+            Map.Draw();
+        }
 
         //se dibuja e mapa
         Map.Draw();
