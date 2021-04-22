@@ -8,10 +8,11 @@ class Player
         Player();
 
         void CallIpunt();
+        int x, y;
 
 
     protected:
-        int x, y;
+
 
 
     private:

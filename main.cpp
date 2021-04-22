@@ -17,6 +17,11 @@ int main()
     {
         //aca es el loop del juego
         Hero.CallIpunt();
+
+        //actualizado info del heroe a mapa
+        Map.SetPlayerCell(Hero.x, Hero.y);
+
+        //se dibuja e mapa
         Map.Draw();
     }
 
